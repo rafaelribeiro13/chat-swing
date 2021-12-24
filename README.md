@@ -1,2 +1,2 @@
 # chat-swing
-Um chat em "tempo real" utilizando threads e componentes swing.
+Um simples chat em "tempo real" utilizando threads e componentes swing.
